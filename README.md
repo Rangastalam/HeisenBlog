@@ -99,6 +99,7 @@ HeisenBlog/
 📊 Integrated analytics to track views and engagement
 
 🧑‍🔬 Creator
+<img width="2863" height="1582" alt="Screenshot 2025-12-11 231955" src="https://github.com/user-attachments/assets/8dab593f-0f6f-4ae5-872d-e6763c78da92" />
 
 👨‍💻 Rishi Karthik
 Breaking Bad enthusiast | Full-Stack Developer | AI-integrated Web Systems
