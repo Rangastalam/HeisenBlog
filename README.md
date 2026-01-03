@@ -102,7 +102,8 @@ HeisenBlog/
 🧑‍🔬 Creator
 <img width="2863" height="1582" alt="Screenshot 2025-12-11 231955" src="https://github.com/user-attachments/assets/8dab593f-0f6f-4ae5-872d-e6763c78da92" />
 <img width="2836" height="1597" alt="Screenshot 2025-12-13 224138" src="https://github.com/user-attachments/assets/d09e8caa-f1ca-47fb-8ac3-7a5c0c0ec926" />
-<img width="2858" height="1610" alt="Screenshot 2025-12-11 232035" src="https://github.com/user-attachments/assets/7d7a5415-d267-4fd2-a930-7e423652f053" />
+<img width="2795" height="1579" alt="image" src="https://github.com/user-attachments/assets/c19a8570-6cc4-4fd3-82c0-6e2bdf37d149" />
+
 <img width="2236" height="1519" alt="Screenshot 2025-12-11 232013" src="https://github.com/user-attachments/assets/3d4591e5-1b5b-4c38-9fe9-284613e01103" />
 <img width="2789" height="670" alt="image" src="https://github.com/user-attachments/assets/2619ad5c-3e31-4cae-bbe3-74c731174979" />
 
