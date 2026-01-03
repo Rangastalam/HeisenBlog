@@ -86,21 +86,22 @@ HeisenBlog/
 ├── package.json
 └── README.md
 
-🧠 Future Enhancements
 
-🌐 Add Google OAuth2.0 for login
 
-🧩 Add categories and tags for better blog organization
+🌐 Added Google OAuth2.0 for login
 
-🎥 Include mini video clips / background animations for immersive feel
+🧩 Added categories and tags for better blog organization
 
-💬 Add comment section for user interaction
+🎥 Included mini video clips / background animations for immersive feel
 
-📊 Integrate analytics to track views and engagement
+💬 Added comment section for user interaction
+
+📊 Integrated analytics to track views and engagement
 
 🧑‍🔬 Creator
 
 👨‍💻 Rishi Karthik
 Breaking Bad enthusiast | Full-Stack Developer | AI-integrated Web Systems
+
 
 “In this world, either you write the story or you become part of someone else’s.”
